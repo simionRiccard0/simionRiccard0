@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm Riccardo Simion
 
+🎓 Bachelor's degree in Computer Engineering from the University of Padua (Università degli Studi di Padova) 
 🎓 Master's student in Computer Engineering  
 🤖 Passionate about Robotics and AI
 🏀 Semi-professional basketball player
