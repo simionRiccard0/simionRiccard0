@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Riccardo Simion
 
 🎓 Master's student in Computer Engineering  
-🤖 Passionate about Robotics and AI 
+🤖 Passionate about Robotics and AI
 🏀 Semi-professional basketball player
 
 ---
