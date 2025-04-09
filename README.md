@@ -2,6 +2,7 @@
 
 🎓 Master's student in Computer Engineering  
 🤖 Passionate about Robotics and AI
+
 🏀 Semi-professional basketball player
 
 ---
